@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38849" started-at="2020-10-14T21:12:06 EDT" finished-at="2020-10-14T21:12:45 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38849" started-at="2020-10-14T21:12:06 EDT" finished-at="2020-10-14T21:12:45 EDT">
+      <class name="Test.Login">
+        <test-method status="PASS" signature="nagetivelogin()[pri:0, instance:Test.Login@71bbf57e]" name="nagetivelogin" duration-ms="10766" started-at="2020-10-14T21:12:06 EDT" finished-at="2020-10-14T21:12:17 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nagetivelogin -->
+        <test-method status="PASS" signature="naukri()[pri:0, instance:Test.Login@71bbf57e]" name="naukri" duration-ms="5381" started-at="2020-10-14T21:12:17 EDT" finished-at="2020-10-14T21:12:22 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- naukri -->
+        <test-method status="PASS" signature="MagentoRegister()[pri:1, instance:Test.Login@71bbf57e]" name="MagentoRegister" duration-ms="7425" started-at="2020-10-14T21:12:22 EDT" finished-at="2020-10-14T21:12:30 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MagentoRegister -->
+        <test-method status="PASS" signature="mouseaction()[pri:2, instance:Test.Login@71bbf57e]" name="mouseaction" duration-ms="15246" started-at="2020-10-14T21:12:30 EDT" finished-at="2020-10-14T21:12:45 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mouseaction -->
+      </class> <!-- Test.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
